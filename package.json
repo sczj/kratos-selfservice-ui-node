@@ -30,7 +30,7 @@
     "@types/node": "^12.12.27",
     "@types/node-fetch": "^2.5.4",
     "express": "^4.17.1",
-    "express-handlebars": "^3.1.0",
+    "express-handlebars": "^5.3.1",
     "express-jwt": "^5.3.1",
     "jwks-rsa": "^1.6.2",
     "jwt-decode": "^2.2.0",
